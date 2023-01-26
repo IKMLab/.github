@@ -11,3 +11,4 @@
 |IEEE AIKE'22| Few-shot Text Classification with Saliency-equivalent Concatenation | [`Paper`]() [`Code`](https://github.com/IKMLab/SEC)|
 |AACL'22| Unsupervised Single Document Abstractive Summarization using Semantic Units |  [`Paper`](https://aclanthology.org/2022.aacl-main.69) [`Code`](https://github.com/IKMLab/UASSU) |
 |EMNLP'22|R-AT: Regularized Adversarial Training for Natural Language Understanding| [`Paper`]() [`Code`](https://github.com/IKMLab/R-AT)|
+|IEEE Access'23|LiDA: Language-independent Data Augmentation for Text Classification|[`Paper`](https://ieeexplore.ieee.org/iel7/6287639/6514899/10005171.pdf) [`Code`](https://github.com/yest/LiDA) |
