@@ -1,4 +1,4 @@
-# This is [IKMLab](https://ikmlab.csie.ncku.edu.tw), a NLP reseach team led by [Prof. Hung-Yu Kao](https://ikmlab.csie.ncku.edu.tw/advisor.html).
+# This is [IKMLab](https://ikmlab.cs.nthu.edu.tw/), a NLP reseach team led by [Prof. Hung-Yu Kao](https://ikmlab.cs.nthu.edu.tw/advisor.html).
 
 ## Publications
 | Conference     |  Title   |  Links  |
